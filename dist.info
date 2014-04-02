@@ -1,0 +1,14 @@
+--- This file is part of Flymir LuaDist project
+
+name = "lcpp"
+version = "scm"
+
+desc = "A C PreProcessor in Lua 5.1 for LuaJIT ffi"
+author = "Michael Schmoock"
+license = "MIT/X11"h
+url = "http://lcpp.schmoock.net/"
+maintainer = "Tai Chi Minh Ralph Eastwood"
+
+depends = {
+	"lua >= 5.1"
+}
